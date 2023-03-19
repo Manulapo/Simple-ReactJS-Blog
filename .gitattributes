@@ -1,2 +1,6 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+React starter
+npm start
+
+JSON starter
+npx json-server --watch data/db.json --port 8000
+
